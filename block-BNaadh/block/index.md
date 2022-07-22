@@ -9,7 +9,7 @@ express --view=ejs sample
 express --view=no-view sample
 
 - express app with gitignore
-express --git sample
+express --view=no-view sample
 
 - express app with sass support for styling.
 express --css=sass sample
